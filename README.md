@@ -1,4 +1,8 @@
-<div align="right">
+<div a<div align="center">
+
+# 🚀 Mann Patel 👨‍💻
+
+## 💻 Full Stack Developer | 🔥 Web Developer | 🚀 Problem Solver"right">
   <a href="https://patelmann.me" target="_blank">
     <img src="https://img.shields.io/badge/🔴_LIVE_PORTFOLIO-FF4500?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF4500&color=FF4500" alt="Live Portfolio" />
   </a>
@@ -20,10 +24,10 @@
 
 ## 👨‍💻 About Me
 
-🔸 **Computer Science Student** passionate about **Full Stack Development**  
-🔸 Check out my portfolio at **[patelmann.me](https://patelmann.me)**  
-🔸 Currently building projects with **React, Node.js and Java**  
-🔸 Love creating responsive web applications and solving coding challenges  
+� **Full Stack Developer** passionate about creating amazing web experiences  
+🎓 **Computer Science Student** always eager to learn new technologies  
+� Currently working with **React.js, Node.js, and Java**  
+⚡ Love building responsive applications and solving complex problems  
 
 ---
 
@@ -135,6 +139,12 @@
   <a href="mailto:patelmann2705@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/f2c604e37bb114653c70996e3c2c48389947f3fd1ff7d893759c3c9b185ee331/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d3132266865696768743d3130302673656374696f6e3d666f6f74657226746578743d5468616e6b73253230666f722532307669736974696e672126666f6e7453697a653d323426666f6e74416c69676e593d383026616e696d6174696f6e3d66616465496e" width="100%" alt="Thanks for visiting!" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
