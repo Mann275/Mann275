@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://patelmann.me" target="_blank">
-    <img src="https://img.shields.io/badge/�_PORTFOLIO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4" alt="Portfolio" />
   </a>
 </div>
 
