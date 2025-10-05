@@ -88,11 +88,10 @@
   <img src="https://profile-counter.glitch.me/Mann275/count.svg?" />
 </div>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/b013bdb3ce8d2739ed66d52fe8470a5553dc0c37170a26eb0fd35ed013dbf49c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51385051314b75617272597563434d56544a2f67697068792e676966" width="400" height="200" alt="connect with me gif" />
-  
-  <h2>🌐 Connect with me:</h2>
-</div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="25">
+  CONNECT WITH ME
+</h2>
 
 <div align="center">
   <a href="https://patelmann.me" target="_blank">
