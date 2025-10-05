@@ -6,7 +6,9 @@
 
 <div align="center">
 
-# 🚀 Mann Patel 👨‍💻
+# <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" /> Patel Mann 👨‍💻
+</div> 
 
 ## 💻 Full Stack Developer | 🔥 Web Developer | 🚀 Problem Solver
 
@@ -14,9 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Development+Enthusiast;Problem+Solver;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-</div>
+
 
 </div>
 
