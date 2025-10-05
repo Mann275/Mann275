@@ -92,7 +92,7 @@
 ###
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="25">
+  <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="50">
   CONNECT WITH ME
 </h2>
 
