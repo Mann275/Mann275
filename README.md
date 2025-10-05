@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> About Me
 
 💻 **Full Stack Developer** passionate about creating amazing web experiences  
 🎓 **Computer Science Student** always eager to learn new technologies   
@@ -31,7 +31,7 @@
 ---
 
 <h3 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
   Languages and Tools
 </h3>
 
@@ -83,7 +83,7 @@
 ###
 
 <h3 align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   My Stats:
 </h3>
 
@@ -95,7 +95,7 @@
 ###
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="55">
+  <img src="https://media.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="50">
   CONNECT WITH ME
 </h2>
 
@@ -124,6 +124,6 @@
   
   <h2>✨ Thanks for visiting my profile! ✨</h2>
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
 
