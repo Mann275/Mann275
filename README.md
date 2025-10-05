@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 💻 **Full Stack Developer** passionate about creating amazing web experiences  
 🎓 **Computer Science Student** always eager to learn new technologies   
@@ -30,7 +30,10 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+  Languages and Tools
+</h3>
 
 ###
 
