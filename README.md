@@ -1,4 +1,14 @@
-<div a<div align="center">
+<div align="left">
+  <a href="https://patelmann.me" target="_blank">
+    <img src="https://img.shields.io/badge/🟢_PORTFOLIO-00C851?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00C851&color=00C851" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+
+# 🚀 Mann Patel 👨‍💻
+
+## 💻 Full Stack Developer | 🔥 Web Developer | 🚀 Problem Solvern="center">
 
 # 🚀 Mann Patel 👨‍💻
 
