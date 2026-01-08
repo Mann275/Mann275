@@ -85,12 +85,16 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mann275&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200" alt="Mann's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann275&layout=compact&theme=dracula&langs_count=8" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mann275&show_icons=true&theme=radical&include_all_commits=true" alt="Mann's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann275&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann275&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mann275&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mann275&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ###
