@@ -85,8 +85,12 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mann275&show_icons=true&theme=radical" alt="Mann's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mann275&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block;" />
+  <a href="https://github.com/Mann275">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mann275&show_icons=true&theme=radical" alt="Mann's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Mann275">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mann275&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
