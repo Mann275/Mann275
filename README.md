@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://`.vercel.app/" target="_blank">
+  <a href="https://patelmann.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4&color=4285F4" alt="Portfolio" />
   </a>
 </div>
